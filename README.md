@@ -9,13 +9,13 @@ A Board of Elections has requested to complete the election audit of a recent lo
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-###### Results on Terminal
+### Results on Terminal
 
 <img width="712" alt="Screen Shot 2022-01-20 at 7 45 18 PM" src="https://user-images.githubusercontent.com/95304774/150445190-d7ce8625-3869-4eff-bed0-a28da715bedf.png">
 
-Each county and its total vote count are printed to the terminal.
-Each county and its percentage of the total votes are printed to the terminal.
-The county with the largest number of voters is printed to the terminal.
+1. Each county and its total vote count are printed to the terminal.
+2. Each county and its percentage of the total votes are printed to the terminal.
+2. The county with the largest number of voters is printed to the terminal.
 
 <img width="712" alt="Screen Shot 2022-01-20 at 7 25 03 PM" src="https://user-images.githubusercontent.com/95304774/150443358-f7aadf84-087b-40ba-853b-8193e73f83a1.png">
 
