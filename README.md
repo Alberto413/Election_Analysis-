@@ -9,7 +9,7 @@ A Board of Elections has requested to complete the election audit of a recent lo
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-### Results on Terminal
+### Results on Terminal and Summary 
 
 <img width="712" alt="Screen Shot 2022-01-20 at 7 45 18 PM" src="https://user-images.githubusercontent.com/95304774/150445190-d7ce8625-3869-4eff-bed0-a28da715bedf.png">
 
@@ -51,6 +51,3 @@ Election Results:
 * Diana DeGette won the election, with a total votes of 272,892
 * In addition, Diana DeGette has the total percentage votes of 73.8%
 * Diana DeGette is the Winner!
-
-## Election Audit Summary:
-
